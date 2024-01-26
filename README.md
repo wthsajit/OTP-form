@@ -4,5 +4,6 @@ Hi, this is kind of a special one that I made for you. There are a set of codes 
 <br><br>
 Have fun!
 <hr style="border-top: 3px dashed #bbb;">
-## Vercel deployed link
+<br>
+<h2>Vercel deployed link</h2>
 https://otp-form-kappa.vercel.app
