@@ -26,15 +26,21 @@ function redirectToDifferentPage() {
     case "2309":
       window.location.href = "https://www.instagram.com/heysajit";
       break;
-    case "2809":
-      window.location.href = "https://photos.app.goo.gl/YSNFRGZQBVxubthi7";
+    case "2002":
+      window.location.href = "https://youtu.be/u3ePPA0yzSU";
       break;
     case "2808":
       window.location.href = "https://photos.app.goo.gl/YFbfJWWm4dULvVrg9";
-      break
+      break;
+    case "2809":
+      window.location.href = "https://photos.app.goo.gl/YSNFRGZQBVxubthi7";
+      break;
+    case "1207":
+      window.location.href = "https://photos.app.goo.gl/WWZExkweZLMDd8VA6"
+      break;
     case "1908":
       window.location.href = "https://photos.app.goo.gl/N5LzTaQrhw3DPEVq7";
-      break
+      break;
     default:
       window.location.href = "http://tinyurl.com/y0a4er1ckrolled";
   }
